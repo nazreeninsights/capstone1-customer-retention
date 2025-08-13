@@ -40,7 +40,7 @@ capstone1-customer-retention/
 ├─ reports/ # PDF write-ups & capstone instructions
 │ ├─ Certified-Data-Analysts-Capstone-Project-Part-1.pdf
 │ └─ CDA-Capstone1-Nazreen-Agos.pdf
-├─ images/ # Screenshots (dashboard, charts)
+├─ images/ # Screenshot
 │ └─ dashboard.png
 ├─ .gitignore
 ├─ LICENSE
