@@ -24,8 +24,9 @@ An **interactive Excel dashboard** complements the SQL analysis, allowing stakeh
 
 ## 📂 Repository Structure
 
+```
 capstone1-customer-retention/
-├─ data/ # CSV datasets 
+├─ data/ # CSV datasets (replace with synthetic if confidential)
 │ ├─ customers.csv
 │ ├─ products.csv
 │ ├─ transactions.csv
@@ -44,7 +45,7 @@ capstone1-customer-retention/
 ├─ .gitignore
 ├─ LICENSE
 └─ README.md
-
+```
 
 ---
 
