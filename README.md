@@ -82,3 +82,6 @@ Includes:
 - Repeat vs one-time customer segmentation.  
 - Product performance ranking by revenue and quantity sold.  
 - Interactive slicers for filtering by product, region, or campaign.
+
+Author: Nazreen Agos
+Topics: customer-analytics, sql, excel, retail
