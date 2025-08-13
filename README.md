@@ -1,6 +1,6 @@
 # 🛍️ Capstone 1 – Customer Retention Analytics
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Capstone1-customer-retention/images/dashboard.png)
 
 An **end-to-end retail analytics project** combining **data preparation**, **SQL-based analytics**, and an **Excel dashboard**.  
 Developed as part of the Certified Data Analysts program, this project focuses on **customer retention insights** and **sales optimization**.
