@@ -26,7 +26,7 @@ An **interactive Excel dashboard** complements the SQL analysis, allowing stakeh
 
 ```
 capstone1-customer-retention/
-├─ data/ # CSV datasets (replace with synthetic if confidential)
+├─ data/ # CSV datasets 
 │ ├─ customers.csv
 │ ├─ products.csv
 │ ├─ transactions.csv
